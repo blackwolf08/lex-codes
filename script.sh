@@ -1,0 +1,1 @@
+lex prac.l && cc lex.yy.c && ./a.out
